@@ -43,15 +43,15 @@ Switch to form-data
 
 ## Key-value pairs
 * Key "operations" 
-value  
+* value  
 ```bash
 {"query":"mutation uploadFiles($params:FileUpload!) {\n  uploadFiles(params: $params){url}\n }","variables":{"params":{"files":null}}}
 ```
 
 * Key "map"
-value
+* value
 ```bash
 {"0": ["variables.params.files"]}
 ```
 
-* Kay "0" -- value will be file 
+* Kay "0" -- value will be file which we want to upload
