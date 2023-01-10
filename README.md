@@ -8,6 +8,12 @@ The node.js example app teaches the very basics of how to work with file upload 
 
 * Node 16
 
+## Technologies Used
+* NodeJs
+* ExpressJs
+* TypeScript
+* GraphQL
+
 ## Common setup
 
 Clone the repo and install the dependencies.
