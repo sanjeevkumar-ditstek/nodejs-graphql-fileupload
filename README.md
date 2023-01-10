@@ -13,8 +13,8 @@ The node.js example app teaches the very basics of how to work with file upload 
 Clone the repo and install the dependencies.
 
 ```bash
-git clone https://github.com/contentful/the-example-app.nodejs.git
-cd the-example-app.nodejs
+git clone https://github.com/sanjeevkumar-ditstek/nodejs-graphql-fileupload.git
+cd nodejs-graphql-fileupload
 ```
 
 ```bash
